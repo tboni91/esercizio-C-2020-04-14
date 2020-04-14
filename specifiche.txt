@@ -88,7 +88,7 @@ creare ed inserire in rubrica i contatti in questo ordine:
 2 - cercare il contatto "antonio","+391234"
 e se trovato, rimuoverlo
 
-3- creare ed aggiungere il contatto "pino","+399999"
+3 - creare ed aggiungere il contatto "pino","+399999"
 e scrivere a video tutta la rubrica telefonica (non le celle vuote)
 
 4 - aggiungere di nuovo dil contatto "antonio","+391234"
