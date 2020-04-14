@@ -39,7 +39,7 @@ contact_type * address_book[ADDRESS_BOOK_SIZE]; // global variable
 // 0: contatti uguali
 // < 0: se *c1 è ordinato prima di *c2
 // > 0: se *c1 è ordinato dopo di *c2
-// ovvero FATE COME FA STRCMP (vedete il suo man)
+// ovvero FATE COME FA STRCMP (vedete man strcmp)
 // NOTA BENE: se c1 == NULL or c2 == NULL, restituisce -1
 int compare_contacts(contact_type * c1, contact_type * c2);
 
